@@ -1,0 +1,2 @@
+# AsynchronousNotificationCase
+模拟异步通知接口
